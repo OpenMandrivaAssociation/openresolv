@@ -6,7 +6,6 @@ License:	BSD
 Group:		System/Base
 URL:		http://roy.marples.name/projects/%name
 Source0:	http://roy.marples.name/downloads/openresolv/%{name}-%{version}.tar.bz2
-Source2:	resolvconf-restartcmd
 Patch0:		fs33801.patch
 BuildArch:	noarch
 

@@ -5,7 +5,7 @@ Summary:	A framework for managing DNS information
 License:	BSD
 Group:		System/Base
 URL:		http://roy.marples.name/projects/%name
-Source0:	http://roy.marples.name/downloads/openresolv/%{name}-%{version}.tar.bz2
+Source0:	http://roy.marples.name/downloads/openresolv/%{name}-%{version}.tar.xz
 Patch0:		fs33801.patch
 BuildArch:	noarch
 

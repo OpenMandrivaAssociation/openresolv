@@ -11,6 +11,11 @@ BuildArch:	noarch
 
 Requires:	filesystem
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 resolvconf is the middleman between the network
 configuration services and /etc/resolv.conf.
